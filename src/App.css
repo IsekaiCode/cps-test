@@ -11,3 +11,10 @@
 h1 {
   font-size: 100px;
 }
+input {
+  height: 30px;
+  width: 100px;
+}
+label {
+  font-size: 20px;
+}
