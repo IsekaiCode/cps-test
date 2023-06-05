@@ -1,0 +1,13 @@
+.btn1 {
+  position: relative;
+  text-align: center;
+  font-size: 50px;
+  height: 100px;
+  width: 400px;
+  margin: 0;
+  top: 100px;
+  cursor: pointer;
+}
+h1 {
+  font-size: 100px;
+}
